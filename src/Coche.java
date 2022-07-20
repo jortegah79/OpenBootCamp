@@ -17,7 +17,6 @@ public class Coche {
 		miCoche.incrementaPuertas();
 		
 		System.out.println("Número de puertas después de método: " +miCoche.puertas);
-		
-		
+				
 	}
 }
